@@ -1,8 +1,8 @@
 #---auto gen---
-SRCS += /main.c
-#---load---
-SRCS += load/load.c
-#---parsing---
-SRCS += parsing/parse.c
-#---run---
-SRCS += run/run.c
+SRCS += main.c
+#---bf_lib---
+SRCS += bf_lib/brain_fuck.c
+SRCS += bf_lib/utils.c
+SRCS += bf_lib/bf_parse.c
+SRCS += bf_lib/bf_process.c
+SRCS += bf_lib/bf_info.c

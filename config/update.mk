@@ -1,4 +1,4 @@
-U_DIR := load parsing run
+U_DIR := bf_lib
 OUT = ./config/srcs.mk
 
 $(touch $(OUT))
