@@ -2,3 +2,6 @@
 *.o
 brainfuck
 .vscode/settings.json
+main.c
+.gitignore
+libbrainfuck.a
